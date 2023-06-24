@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/emran-resume/static/css/main.df724b7a.css",
-    "main.js": "/emran-resume/static/js/main.90071669.js",
-    "static/js/787.9aee37e9.chunk.js": "/emran-resume/static/js/787.9aee37e9.chunk.js",
-    "static/media/mark.jpg": "/emran-resume/static/media/mark.a9af5f2904b8d594ea40.jpg",
-    "index.html": "/emran-resume/index.html",
-    "main.df724b7a.css.map": "/emran-resume/static/css/main.df724b7a.css.map",
-    "main.90071669.js.map": "/emran-resume/static/js/main.90071669.js.map",
-    "787.9aee37e9.chunk.js.map": "/emran-resume/static/js/787.9aee37e9.chunk.js.map"
+    "main.css": "/mark-fernandez/static/css/main.df724b7a.css",
+    "main.js": "/mark-fernandez/static/js/main.effb4686.js",
+    "static/js/787.9aee37e9.chunk.js": "/mark-fernandez/static/js/787.9aee37e9.chunk.js",
+    "static/media/mark.jpg": "/mark-fernandez/static/media/mark.a9af5f2904b8d594ea40.jpg",
+    "index.html": "/mark-fernandez/index.html",
+    "main.df724b7a.css.map": "/mark-fernandez/static/css/main.df724b7a.css.map",
+    "main.effb4686.js.map": "/mark-fernandez/static/js/main.effb4686.js.map",
+    "787.9aee37e9.chunk.js.map": "/mark-fernandez/static/js/787.9aee37e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.df724b7a.css",
-    "static/js/main.90071669.js"
+    "static/js/main.effb4686.js"
   ]
 }
