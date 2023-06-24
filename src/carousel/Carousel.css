@@ -1,0 +1,12 @@
+.carousel {
+    background-color: #12171a;;
+    padding-bottom: 50px;
+}
+
+.content {
+     height: '160px';
+    color: '#fff';
+    line-height: '160px';
+    text-align: 'center';
+    background: '#364d79';
+}
